@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { Hero } from '../hero';
-import { StarPipe } from '../star.pipe'
 
 @Component({
   selector: 'app-heroes',
